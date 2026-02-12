@@ -29,3 +29,4 @@
 19:45:14 | metric=4494
 19:45:16 | merkle2=8e2202a48dec433b30cb3fb675cee87639bd7d05bcc7c0e0fbbd1b01ed2804a2
 20:45:14 | offset=888233
+20:45:16 | metric=2578
