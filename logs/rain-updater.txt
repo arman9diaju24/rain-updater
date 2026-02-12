@@ -15,3 +15,4 @@
 14:45:18 | merkle2=eac5d5f4ed9aa42e68dbb75ab58dd9ad1dc241fa160b39637abff99f09ec663a
 15:45:41 | offset=999366
 15:45:43 | metric=4777
+15:45:47 | merkle2=3d4d7af4caadc0b4c6dcdb8e2b5d3d2e8b1cb6ca16d97fd361dde0700e288c03
