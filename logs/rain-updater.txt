@@ -13,3 +13,4 @@
 14:45:14 | offset=762488
 14:45:16 | metric=8220
 14:45:18 | merkle2=eac5d5f4ed9aa42e68dbb75ab58dd9ad1dc241fa160b39637abff99f09ec663a
+15:45:41 | offset=999366
