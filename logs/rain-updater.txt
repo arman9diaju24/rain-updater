@@ -71,3 +71,4 @@
 09:45:13 | metric=8486
 09:45:15 | merkle2=3403bff88e4fa27cf7c1b1e80e0ccaf712c48c0aedec36336d9d3088e2b7dd4e
 10:45:11 | offset=885268
+10:45:13 | metric=5259
