@@ -80,3 +80,4 @@
 12:45:13 | metric=5586
 12:45:17 | merkle2=71a1a64ceea16b16ef441fd5f29cb8dc8a7d456f3f380afc65b873ffca98520e
 13:45:13 | offset=776273
+13:45:17 | metric=4609
