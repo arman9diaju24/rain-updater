@@ -170,3 +170,4 @@
 18:45:12 | metric=4060
 18:45:15 | merkle2=6c33de264b5dca3667145e1f8bdbcbc5e796fb6066bac1a5171bdbcd6cae690d
 19:45:10 | offset=331353
+19:45:14 | metric=2889
